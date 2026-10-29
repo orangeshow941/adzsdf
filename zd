@@ -1,0 +1,4 @@
+import calendar
+year=int(input("202020200000000000000000000000000000000000000000000000000000000000000000000 what year"))
+mo = int(input("oct what oct is monte"))
+print(calendar.month(year, mo))
